@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>UsingCloudApplicationServices</Id>
+  <Technologies>
+    <Technology>ASP.NET MVC</Technology>
+    <Technology>ASP.NET</Technology>
+    <Technology>Window Azure</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://haishibai.blogspot.com/</Blog>
+    <Email>hbai@microsoft.com</Email>
+    <Name>Haishi Bai</Name>
+  </Author>
+  <Description>
+    Learn how to take advantage the rich array of services Windows Azure offers to scale your site. We'll see how to start with a standard ASP.NET site hosted on Windows Azure Web Sites and take advantage of Service Bus Integration, Storage, and Caching in Web Role.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\UsingCloudApplicationServices.pptx</Document>
+  <Title>Using Cloud Application Services</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
